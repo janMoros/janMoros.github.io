@@ -39,6 +39,10 @@
 	}
 }
 
+b, strong {
+    font-weight: 500;
+}
+
 /** skills labels  **/
 .label-padded {
 	padding: 5px;
