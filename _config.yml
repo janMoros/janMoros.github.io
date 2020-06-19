@@ -59,8 +59,9 @@ roles:
 #Education is required
 education:
  - level: Bachelor's Degree
-   GradDate: June 2021
+   GradDate: Expected graduation: June 2021
    subject: Computer Engineering
+   Specialization: Specialization in Computational Science
    school: Universitat Autònoma de Barcelona
 
 
