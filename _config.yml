@@ -59,8 +59,7 @@ roles:
 #Education is required
 education:
  - level: Bachelor's Degree
-   date: 2017
-   est_end_date: 2021
+   date: 2021
    subject: Computer Engineering
    school: Universitat Autònoma de Barcelona
 
