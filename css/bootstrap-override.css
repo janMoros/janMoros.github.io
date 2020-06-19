@@ -31,8 +31,10 @@
     margin-left: -100px;
 }
 
-.row {
-    margin-top: 75px;
+@media (min-width: 768px) {
+	.row {
+		margin-top: 75px;
+	}
 }
 
 /** skills labels  **/
