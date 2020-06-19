@@ -1,0 +1,26 @@
+<!-- 
+education:
+ - level: Bachelor's Degree
+   date: 2021
+   subject: Computer Engineering
+   school: Universitat Autònoma de Barcelona
+-->
+
+{% if site.education %}
+	<div id="educationBubble" class="rounded_panel txt_lightgrey">
+		<div class="top-rounded-panel grey-bg">
+			<h1 id="education">Education</h1>
+		</div>
+		<div class="content-rounded-panel">
+			<div id="educationBlurb">
+				{% for title in site.education %}
+					{{title.level}} <br>
+					{{title.date}} <br>
+					{{title.subject}} <br>
+					{{title.school}} <br>
+				{% endfor %}
+			</div>
+			<br>
+		</div>
+	</div>
+{% endif %}
