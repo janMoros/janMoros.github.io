@@ -4,6 +4,7 @@
 }
 .navbar-inverse .nav>li>a {
 	color: #A5C5DF;
+	font-size:25px;
 }
 .navbar-inverse .brand {
 	color: white;
@@ -17,11 +18,21 @@
 	box-shadow: 0 0px 0px rgba(0, 0, 0, 0);
 }
 
+.navbar-inverse .navbar-brand {
+    color: white;
+}
+
 .navbar-info {
     float: left;
     padding: 0 15px 15px 0;
-    font-size: 18px;
+    font-size: 15px;
     line-height: 20px;
+    color: #ffffffb0;
+    margin-left: -145px;
+}
+
+.row {
+    margin-top: 75px;
 }
 
 /** skills labels  **/
