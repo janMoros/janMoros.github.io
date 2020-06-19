@@ -17,6 +17,13 @@
 	box-shadow: 0 0px 0px rgba(0, 0, 0, 0);
 }
 
+.navbar-info {
+    float: left;
+    padding: 0 15px 15px 0;
+    font-size: 18px;
+    line-height: 20px;
+}
+
 /** skills labels  **/
 .label-padded {
 	padding: 5px;
