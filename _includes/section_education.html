@@ -14,10 +14,12 @@ education:
 		<div class="content-rounded-panel">
 			<div id="educationBlurb">
 				{% for title in site.education %}
-					{{title.level}} <br>
-					{{title.date}} <br>
-					{{title.subject}} <br>
+					<p>
+					<b>{{title.level}} in {{title.subject}}</b> <br>
+					Specialization in <b>{{title.Specialization}}</b>	
 					{{title.school}} <br>
+					{{title.GradDate}}
+					</p>
 				{% endfor %}
 			</div>
 			<br>
