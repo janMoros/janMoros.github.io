@@ -15,21 +15,17 @@ primarylinks:
 
 #Any buzzword skills you want to include
 skills:
- - Scala
- - Akka-http
- - Microservices
- - Slick
- - Product management
- - API design
- - Groovy
- - Spring MVC/Boot/Social
- - Gradle
- - Java
- - JPA
+ - Python
+ - C++
+ - Matlab
+ - C#
+ - Computer Vision
+ - Machine Learning
+ - Data Science
+ - Artificial Intelligence
+ - Videogame Development
+ - Web Development
  - SQL
- - REST
- - Technical Architecture
- - Machine learning
 
 
 #Work experience is required
@@ -88,7 +84,8 @@ additionalinfo: |
    American Football player at Terrassa Reds - 2016 to 2018 <br>
    <br>
    <h2>Volunteering</h2>
-   Leisure monitor at Esplai Egara, an educational leisure organization - 2018 to present <br>
+   Leisure monitor at Esplai Egara - 2018 to present <br>
+   (Esplai is a Catalan word that refers to an association that thrives for educational leisure time) .<br>
    <br>
    <h2>Other Education</h2>
    Youth Recreational Leader certificate - Escola Lliure el sol - 2018 <br>
