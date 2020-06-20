@@ -62,7 +62,7 @@ education:
    subject: Computer Engineering
    Specialization: Computational Science
    school: Universitat Autònoma de Barcelona
-   coursework: "Relevant coursework: Computer Vision, Machine Learning, Analysis and Design of Algorithms, Knowledge, Reasoning and Uncertainty"
+   CourseWork: "Relevant coursework: Computer Vision, Machine Learning, Analysis and Design of Algorithms, Knowledge, Reasoning and Uncertainty"
 
 #List of interesting Github repo/projects to include - optional
 github:
@@ -79,18 +79,17 @@ intro: |
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
    <h2>Languages</h2>
-   Catalan - Native 
-   Spanish - Native
-   <b>English - CEFT C1</b>
+   Catalan - Native <br>
+   Spanish - Native <br>
+   <b>English - CEFT C1</b> <br>
 
    <h2>Sports</h2>
-   Fencer at Club d’Esgrima Ciutat de Terrassa - 2013 to 2016
-   American Football player at Terrassa Reds - 2016 to 2018
+   Fencer at Club d’Esgrima Ciutat de Terrassa - 2013 to 2016 <br>
+   American Football player at Terrassa Reds - 2016 to 2018 <br>
 
    <h2>Volunteering</h2>
-   Monitor de lleure des del 2018 a l’Esplai Egara, esplai de dissabtes i campaments.
-   Leisure monitor at Esplai Egara, an educational leisure organization - 2018 to present 
+   Leisure monitor at Esplai Egara, an educational leisure organization - 2018 to present <br>
    
    <h2>Other Education</h2>
-   Youth Recreational Leader certificate - Escola Lliure el sol - 2018
-   Proficient at C1 oral fluency diploma - Universidad Internacional Menéndez Pelayo 
+   Youth Recreational Leader certificate - Escola Lliure el sol - 2018 <br>
+   Proficient at C1 oral fluency diploma - Universidad Internacional Menéndez Pelayo
