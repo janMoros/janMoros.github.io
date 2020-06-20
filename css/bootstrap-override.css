@@ -21,7 +21,7 @@
 .navbar-inverse .navbar-brand {
     color: white;
     font-size: 30px;
-    padding: 20px 0px;
+    padding: 15px 0px;
 }
 
 .navbar-info {
@@ -30,7 +30,7 @@
     font-size: 15px;
     line-height: 20px;
     color: #ffffffb0;
-    margin-left: -140px;
+    margin-left: -150px;
 }
 
 @media (min-width: 768px) {
