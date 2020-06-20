@@ -16,9 +16,9 @@ education:
 				{% for title in site.education %}
 					<p>
 					<b>{{title.level}} in {{title.subject}}</b> <br>
-					{% if title.Specialization %} Specialization in <b>{{title.Specialization}}</b> <br> {% endif %}
-					{{title.school}} <br>
-					{{title.GradDate}} <br>
+					{% if title.Specialization %} Specialization in <b>{{title.Specialization}}</b> <br><br> {% endif %}
+					{{title.school}} <br><br>
+					{{title.GradDate}} <br><br>
 					{% if title.CourseWork %} {{title.CourseWork}} {% endif %}
 					</p>
 				{% endfor %}
