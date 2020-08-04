@@ -26,6 +26,19 @@ skills:
  - Videogame Development
  - Web Development
  - SQL
+ 
+ skillsES:
+ - Python
+ - C++
+ - Matlab
+ - C#
+ - Computer Vision
+ - Machine Learning
+ - Data Science
+ - Inteligencia Artificial
+ - Desarrollo de videojuegos
+ - Desarrollo Web
+ - SQL
 
 
 #Work experience is required
@@ -59,6 +72,14 @@ education:
    Specialization: Computational Science
    school: Universitat Autònoma de Barcelona
    CourseWork: "Relevant coursework: Computer Vision, Machine Learning, Analysis and Design of Algorithms, Knowledge, Reasoning and Uncertainty"
+   
+educationES:
+ - level: Grado
+   GradDate: "Fecha prevista de graduación: junio 2021"
+   subject: Ingeniería Informática
+   Specialization: Computación
+   school: Universitat Autònoma de Barcelona
+   CourseWork: "Relevant coursework: Computer Vision, Machine Learning, Analysis and Design of Algorithms, Knowledge, Reasoning and Uncertainty"
 
 #List of interesting Github repo/projects to include - optional
 github:
@@ -69,8 +90,14 @@ github:
  - janMoros/3DMazeVGI
 
 
-intro: |
+introErasmus: |
   I am a 3rd grade Computer Engineering student, specialized in <b>Computational Science</b>. Here I have worked with a broad range of languages and technologies, but I have the most experience with <b>C++</b> and <b>Python</b>. This year I have specialized, so I have coursed subjects on <b>Machine Learning</b>, Algorithmic and <b>Computer Vision</b>. I have found this last one to be really interesting. That is the reason I chose to make my international exchange at NHL Stenden, because of the Computer Vision and Data Science course offered there.
+
+intro:
+ I am a 3rd grade Computer Engineering student, specialized in <b>Computational Science</b>. Here I have worked with a broad range of languages and technologies, but I have the most experience with <b>C++</b> and <b>Python</b>. I look forward to make my internship in a company where I can learn different areas so I can broaden my range of skills.
+
+introES:
+ Soy estudiante de 3o de Ingeniería informática, con la mención en Computación. Aquí he trabajado con un amplio abanico de lenguajes y tecnologías, pero con los que tengo más experiencia son <b>C++</b> y <b>Python</b>. Busco realizar mi estada de prácticas en una empresa donde pueda aprender sobre diferentes áreas para expandir mi rango de conocimentos.
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
@@ -94,3 +121,25 @@ additionalinfo: |
    <h2>Unrelated Work Experience</h2>
    Summer Camp Leisure Monitor - Grup Formació i Oci - Summer 2018 <br>
    Private teacher for children of different ages - 2016 to 2020 <br>
+   
+additionalinfoES: |
+   <h2>Idiomas</h2>
+   Catalán - Nativo <br>
+   Español - Nativo <br>
+   <b>Inglés - CEFT C1</b> <br>
+   <br>
+   <h2>Sports</h2>
+   Tirador en Club d’Esgrima Ciutat de Terrassa - 2013 a 2016 <br>
+   Jugador de fútbol americano en Terrassa Reds - 2016 a 2018 <br>
+   <br>
+   <h2>Voluntariado</h2>
+   Monitor de ocio en Esplai Egara - 2018 a presente <br>
+   <br>
+   <h2>Educación no formal</h2>
+   Certificado de monitor de ocio - Escola Lliure el sol - 2018 <br>
+   Diploma de competencia oral de nivel C1 en inglés - Universidad Internacional Menéndez Pelayo <br>
+   <br>
+   <h2>Experiencia laboral no relacionada</h2>
+   Monitor de ocio en Casales de verano - Grup Formació i Oci - Verano de 2018 <br>
+   Profesor particular de estudiantes de diferentes edades - 2016 to 2020 <br>
+
