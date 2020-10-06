@@ -42,11 +42,11 @@ skills:
 
 
 #Work experience is required
-#roles:
-# - title: CTO
-#   start: 2017
-#   end: Ongoing
-#   employer: Basement Crowd
+roles:
+ - title: Data Science Intern
+   start: Oct 2020
+   end: Ongoing
+   employer: Delectatech
 #   description: Legaltech startup producing a range of innovative legal products. Products include <a href="https://www.juriosity.com" taget="_blank">Juriosity</a>, <a href="https://www.fromcounsel.com" taget="_blank">FromCounsel</a>, <a href="https://www.sparqa.com" taget="_blank">Sparqa</a>.
 # - title: Senior Engineer
 #   start: 2016
