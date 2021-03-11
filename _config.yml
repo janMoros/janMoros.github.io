@@ -104,11 +104,11 @@ intro:
 
 workastext: |
 # Work Experience HARDCODED HERE, NOT JEKILLIFIED
-<h2 class="job">Data Science Internship - <span class="place"><a href="http://www.delectatech.com">Delectatech</a></span> <span class="year">(Oct 2020 - Jan 2021)</span></h2>
-<p>EXPLICAR AQUI</p>
-<br>
-<h2 class="job">Computer Vision & Data Science Internship - <span class="place"><a href="https://www.nhlcomputervision.nl">NHL Stenden Centre of Expertise in Computer Vision & Data Science</a></span> <span class="year">(Feb 2021 - Present)</span></h2>
-<p>EXPLICAR AQUI</p>
+ <h2 class="job">Data Science Internship - <span class="place"><a href="http://www.delectatech.com">Delectatech</a></span> <span class="year">(Oct 2020 - Jan 2021)</span></h2>
+ <p>EXPLICAR AQUI</p>
+ <br>
+ <h2 class="job">Computer Vision & Data Science Internship - <span class="place"><a href="https://www.nhlcomputervision.nl">NHL Stenden Centre of Expertise in Computer Vision & Data Science</a></span> <span class="year">(Feb 2021 - Present)</span></h2>
+ <p>EXPLICAR AQUI</p>
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
