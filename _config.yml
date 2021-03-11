@@ -71,7 +71,7 @@ education:
    subject: Computer Engineering
    Specialization: Computational Science
    school: Universitat Autònoma de Barcelona
-   CourseWork: "Relevant coursework: Computer Vision, Machine Learning, Analysis and Design of Algorithms, Knowledge, Reasoning and Uncertainty"
+#   CourseWork: "Relevant coursework: Computer Vision, Machine Learning, Analysis and Design of Algorithms, Knowledge, Reasoning and Uncertainty"
    
 #educationES:
 # - level: Grado
@@ -97,19 +97,19 @@ github:
 intro:
  I am a 4th grade Computer Engineering student, specialized in <b>Computational Science</b>. Here I have worked with a broad range of languages and technologies, but I have the most experience with <b>C++</b> and <b>Python</b>. 
  <br><br>
- This academic year I have coursed a 4-month <b>Data Science internship</b> at <b><a href = "http://www.delectatech.com">Delectatech</a></b>, and I am currently taking the <i>Computer Vision & Data Science</i> minor/internship at NHL Stenden, as an Erasmus Exchange.
+ This academic year I have coursed a 4-month <b>Data Science internship</b> at <b><a href = "http://www.delectatech.com" target="_blank">Delectatech</a></b>, and I am currently taking the <i>Computer Vision & Data Science</i> minor/internship at NHL Stenden, as an Erasmus Exchange.
 
 #introES:
 # Soy estudiante de 3o de Ingeniería informática, con la mención en Computación. Aquí he trabajado con un amplio abanico de lenguajes y tecnologías, pero con los que tengo más experiencia son <b>C++</b> y <b>Python</b>. Busco realizar mi estada de prácticas en una empresa donde pueda aprender sobre diferentes áreas para expandir mi rango de conocimentos.
 
 # Work Experience HARDCODED HERE, NOT JEKILLIFIED
 workastext: |
- <h2 class="job">Data Science Internship - <span class="place"><a href="http://www.delectatech.com">Delectatech</a></span> <span class="year">(Oct 2020 - Jan 2021)</span></h2>
+ <h2 class="job">Data Science Internship - <span class="place"><a href="http://www.delectatech.com" target="_blank">Delectatech</a></span> <span class="year">(Oct 2020 - Jan 2021)</span></h2>
  <p>
   Performed dataset labeling, CNN model fine-tuning and Data Analysis.
  </p>
  <br>
- <h2 class="job">Minor in Computer Vision & Data Science - <span class="place"><a href="https://www.nhlcomputervision.nl">NHL Stenden</a></span> <span class="year">(Feb 2021 - Present)</span></h2>
+ <h2 class="job">Minor in Computer Vision & Data Science - <span class="place"><a href="https://www.nhlstenden.com/en/exchange-programmes/technology/computer-vision-data-science" target="_blank">NHL Stenden</a></span> <span class="year">(Feb 2021 - Present)</span></h2>
  <p>
   Internship at the NHL Stenden Centre of Expertise in Computer Vision & Data Science. <br>
   Applied research project focused on Obstacle Detection for a drone's fail-safe landing system.
