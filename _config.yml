@@ -105,10 +105,15 @@ intro:
 # Work Experience HARDCODED HERE, NOT JEKILLIFIED
 workastext: |
  <h2 class="job">Data Science Internship - <span class="place"><a href="http://www.delectatech.com">Delectatech</a></span> <span class="year">(Oct 2020 - Jan 2021)</span></h2>
- <p>EXPLICAR AQUI</p>
+ <p>
+  Performed dataset labeling, CNN model fine-tuning and Data Analysis.
+ </p>
  
- <h2 class="job">CV & Data Science Minor - <span class="place"><a href="https://www.nhlcomputervision.nl">NHL Stenden Centre of Expertise in Computer Vision & Data Science</a></span> <span class="year">(Feb 2021 - Present)</span></h2>
- <p>EXPLICAR AQUI</p>
+ <h2 class="job">Minor in Computer Vision & Data Science - <span class="place"><a href="https://www.nhlcomputervision.nl">NHL Stenden</a></span> <span class="year">(Feb 2021 - Present)</span></h2>
+ <p>
+  Internship at the NHL Stenden Centre of Expertise in Computer Vision & Data Science. <br>
+  Applied research project focused on Obstacle Detection for a drone's fail-safe landing system.
+ </p>
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
