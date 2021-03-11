@@ -418,3 +418,16 @@ td.loginRow {
 .github-box {
 	margin-top: 15px;
 }
+
+h2.job {
+	font-weight: 600;
+}
+
+span.year {
+	font-weight: 400;
+	color: #63758a;
+}
+
+span.place {
+	font-weight: 500;
+}
