@@ -102,8 +102,8 @@ intro:
 #introES:
 # Soy estudiante de 3o de Ingeniería informática, con la mención en Computación. Aquí he trabajado con un amplio abanico de lenguajes y tecnologías, pero con los que tengo más experiencia son <b>C++</b> y <b>Python</b>. Busco realizar mi estada de prácticas en una empresa donde pueda aprender sobre diferentes áreas para expandir mi rango de conocimentos.
 
-workastext: |
 # Work Experience HARDCODED HERE, NOT JEKILLIFIED
+workastext: |
  <h2 class="job">Data Science Internship - <span class="place"><a href="http://www.delectatech.com">Delectatech</a></span> <span class="year">(Oct 2020 - Jan 2021)</span></h2>
  <p>EXPLICAR AQUI</p>
  <br>
